@@ -13,7 +13,7 @@ script:
   - ./gradlew test
 addons:
   browserstack:
-    username: "BROWSERSTACK_USERNAME"
+    username: "manishranjan5"
     access_key:
       secure: "BrowserStack access key after travis encrypt"
     app_path: 'browserstack_android_sample/build/outputs/apk/debug/browserstack_android_sample-debug.apk'
