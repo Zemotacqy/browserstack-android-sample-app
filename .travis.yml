@@ -1,6 +1,6 @@
 addons:
   browserstack:
-    username: $BROWSERSTACK_USERNAME
+    username: "manishranjan5"
     access_key:
-      secure: $BROWSERSTACK_ACCESS_KEY
+      secure: "PBRwlejA3NbkXFkca4EgHwjGlA1l/1DLjcAP3+yYJ60z00gef/WGeZ7s2BYpQ+5xSG8pTme2uwDBQ+zw8xI4OA8e+jIIyaoy0MWROR6vLkmmoh3bxRnXr+YadO3MwaV/djPvb0R9TCqZVvQ0UfURginhm5W4BVimCWfUvd32QS1sAaqMIY04Hnp7qU0u0IJXNObSYIequ5VPv6vOTt7A/KsaQIfC3oPoJCEMVxJsVwrroP8WgwmnXAPlccmKLKR7Vb80UpCjHA5wQW476vZOLYjOQs+ihByJMpTcEqhHCst0ymlzw7k7lja+NX6QtG99jdeLychZszbKpWtVhkX1s/w7gF8KbOEyfksyyS5Ma+ITQoEJNdmmDShic9c2Xyl/XaFejFJ+lyr6+s3ivE8VK0M0olyZMC0M8xi6y1hZcHL7ovLpDXtNbn6I2hUu7PrqIiFyYiluHapYgzqpUqDkumCZe+haJiqdBC33tBtgdmlrz6PjKh2IE/5rz2hLp/Qu5mQzvgB4OGj8suLptwmVu1H1E5ANrja6VO0eaMJWu/8vZIHgNINGGEJhVZFla71Xy5FRxYC9ne9hH/tkGEKDaOAJd0WRkvhmihxToLDQkm00DXMGrcRr0GNK+zUxSizVNAxA7x5dqMU3ayCl+C9E+CBpUTZL53FnhnN4yLyYfKE="
     app_path: 'Calculator.apk'
